@@ -103,7 +103,7 @@ html {
 }
 
 /* ************* NAVBAR ************* */
-.container-navbar {
+/* .container-navbar {
 	background-color: var(--primary-color);
 }
 
@@ -116,7 +116,7 @@ html {
 
 .navbar .fa-bars {
 	display: none;
-}
+} */
 
 .menu {
 	display: flex;
